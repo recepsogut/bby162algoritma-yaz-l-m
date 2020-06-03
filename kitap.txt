@@ -1,0 +1,4 @@
+eser1,yazar1,2020,4835,alfa
+eser2,yazar2,2020,5447,beta
+eser3,yazar3,2020,4547,teta
+eser4,yazar4,2020,5463,hekta
