@@ -1,0 +1,7 @@
+kitap1|yazar1|2020|alfa
+kitap2|yazar2|2020|beta
+kitap3|yazar3|2020|teta
+kitap5|yazar5|2020|hekta
+kitap6|yazar6|2020|null
+kitap7|yazar7|2020|anka
+yazar10|kitap10|2020|kuzgun
